@@ -5,7 +5,7 @@ paramtest.sh для тестирования параметризации в scr
   - чтобы запустить скрипт нужно ввести в терминале - sudo bash script.sh
 нагрузка устанавливается по умолчанию или вы можете выбрать ее самостоятельно через script.sh -h встроенная документация по работе со скриптом.
 
-#############
+
 
 # script.sh performs full acceptance tests. 
 Installation, update, checking of installed packages, log collection, load tests, output of available devices to the terminal, etc.
