@@ -10,5 +10,5 @@ paramtest.sh для тестирования параметризации в scr
 Installation, update, checking of installed packages, log collection, load tests, output of available devices to the terminal, etc.
 paramtest.sh for testing parameterization in script.sh, you can imagine that this is a unit test.
 Everything works in Ubuntu 22.04, 
-  - sudo bash script.sh is launched
+  - sudo bash script.sh is launched. 
 The load is set by default or you can choose it yourself via script.sh -h built-in documentation on working with the script.
